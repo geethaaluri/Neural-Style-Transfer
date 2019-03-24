@@ -9,5 +9,7 @@ Here is the style image I am going to use:
 ![style2](https://user-images.githubusercontent.com/48276005/54877025-8b7bd780-4dd6-11e9-85a5-113a4d2f6433.jpg)
 
 Here is the base input image:
+![original2](https://user-images.githubusercontent.com/48276005/54877050-d72e8100-4dd6-11e9-9774-1c9f82eac6fd.jpg)
 
 Here is my output image with the style in it!
+![neural_city_at_iteration_9](https://user-images.githubusercontent.com/48276005/54877052-dc8bcb80-4dd6-11e9-829b-2549fa946717.png)
